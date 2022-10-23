@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Note- here google map API has used instead of react-map-gl library 
+#Note- I have used google map API instead of react-map-gl library 
 
 In the project directory, you can run:
 
